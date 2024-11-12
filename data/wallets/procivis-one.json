@@ -9,6 +9,7 @@
   "capability": ["issuer", "holder", "verifier"],
   "portability": true,
   "urlWebsite": "https://www.procivis.ch/en/procivis-one",
+  "urlWebApp": "https://docs.procivis.ch",
   "credentialProfiles": ["ISO mDL", "JSON-LD VCs with BBS (Holder DID)"],
   "credentialFormats": ["JWT-VC", "LDP-VC", "MDOC", "SD-JWT-VC"],
   "issuanceProtocols": ["OpenID4VCI"],
