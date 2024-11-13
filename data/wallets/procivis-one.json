@@ -12,7 +12,7 @@
   "urlWebApp": "https://docs.procivis.ch",
   "credentialProfiles": ["ISO mDL", "JSON-LD VCs with BBS (Holder DID)"],
   "credentialFormats": ["JWT-VC", "LDP-VC", "MDOC", "SD-JWT", "SD-JWT-VC"],
-  "issuanceProtocols": ["OpenID4VCI", "ISO 23220-3"],
+  "issuanceProtocols": ["OpenID4VCI"],
   "keyManagements": ["did:jwk", "did:key", "did:web", "pub key in X.509 cert"],
   "presentationProtocols": ["OpenID4VP"],
   "signingAlgorithms": ["BBS+ with public key binding", "ECDSA", "EdDSA"],
