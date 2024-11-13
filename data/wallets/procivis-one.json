@@ -4,7 +4,7 @@
   "company": "Procivis AG",
   "companyUrl": "https://www.procivis.ch",
   "type": "cloud",
-  "openSource": false,
+  "openSource": true,
   "license": "Apache-2.0",
   "capability": ["issuer", "verifier"],
   "portability": true,
