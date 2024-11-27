@@ -12,7 +12,7 @@
   "urlWebApp": "https://docs.procivis.ch",
   "downloadSource": "https://github.com/procivis/one-core",
   "credentialProfiles": ["ISO mDL", "JSON-LD VCs with BBS (Holder DID)"],
-  "credentialFormats": ["JWT-VC", "MDOC", "SD-JWT", "SD-JWT-VC"],
+  "credentialFormats": ["JWT-VC", "JWT", "LDP-VC", "MDOC", "SD-JWT", "SD-JWT-VC", "VC (1.1)"],
   "issuanceProtocols": ["OpenID4VCI"],
   "keyManagements": ["did:jwk", "did:key", "did:web", "pub key in X.509 cert"],
   "presentationProtocols": ["OpenID4VP"],
