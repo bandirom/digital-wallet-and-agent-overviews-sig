@@ -14,7 +14,7 @@
   "downloadSource": "https://github.com/procivis/one-wallet",
   "credentialProfiles": ["ISO mDL", "JSON-LD VCs with BBS (Holder DID)"],
   "credentialFormats": ["JWT-VC", "JWT", "LDP-VC", "MDOC", "SD-JWT", "SD-JWT-VC", "VC (1.1)"],
-  "issuanceProtocols": ["OpenID4VCI"],
+  "issuanceProtocols": ["OpenID4VCI", "ISO 23220-3"],
   "keyManagements": ["did:jwk", "did:key", "did:web", "pub key in X.509 cert"],
   "presentationProtocols": ["OpenID4VP"],
   "signingAlgorithms": ["BBS+ with public key binding", "ECDSA", "EdDSA"],
